@@ -9,4 +9,4 @@ If you ready to jump right in we will keep a list of [exercises](https://github.
 
 ## Levels
 
-For those that would like a more linear and gamified approach we created something called levels. You can work through these exercises and increase your level as you go. To start go to [levels](https://githu.com/SDHackers/start-here/blob/master/levels/levels.md)
+For those that would like a more linear and gamified approach we created something called levels. You can work through these exercises and increase your level as you go. To start go to [levels](https://github.com/SDHackers/start-here/blob/master/levels/levels.md)
