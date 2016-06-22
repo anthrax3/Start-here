@@ -8,6 +8,7 @@ Vulnerable vm's are virtual machines that are intentionally setup to vulnerable 
 **Beginner**
 
 * [DE-ice 1.100](https://www.vulnhub.com/entry/de-ice-s1100,8/)
+* [Sick-Os 1.1](https://www.vulnhub.com/entry/sickos-11,132/)
 
 **Intermediate**
 
