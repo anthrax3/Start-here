@@ -11,6 +11,7 @@ Vulnerable vm's are virtual machines that are intentionally setup to vulnerable 
 * [Sick-Os 1.1](https://www.vulnhub.com/entry/sickos-11,132/)
 
 **Intermediate**
+* [Stapler-1](https://www.vulnhub.com/entry/stapler-1,150/)
 
 **Advanced**
 * [InfosecLabs](https://github.com/SDHackers/InfosecLabs)
